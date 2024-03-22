@@ -1,0 +1,13 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.icon-md {
+    font-size: 1.2rem;
+}
+
+.separator {
+    margin: 0 0 10px 0;
+}
